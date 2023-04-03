@@ -1,6 +1,7 @@
+#Hello
 - 👋 Hi, I’m @JJTM20
 - 👀 I’m interested in memes
-- 🌱 I’m currently learning how the hell Github works
+- 🌱 I’m currently learning how the hell GitHub works
 - 💞️ I’m looking to collaborate on some sick ass spaghetti recipe
 - 📫 How to reach me? Just slide
 
