@@ -1,4 +1,4 @@
-#Hello
+## Hello
 - 👋 Hi, I’m @JJTM20
 - 👀 I’m interested in memes
 - 🌱 I’m currently learning how the hell GitHub works
