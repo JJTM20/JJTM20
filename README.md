@@ -1,7 +1,7 @@
 ## Hello
 - 👋 Hi, I’m @JJTM20
 - 🌱 I’m currently learning a lot of different things at AAU
-- 💞️ I’m looking to collaborate on some sick ass spaghetti recipe
+- 💞️ I’m looking to collaborate on some real good spaghetti recipe
 - 📫 How to reach me? Just slide
 
 <!---
